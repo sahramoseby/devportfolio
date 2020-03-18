@@ -370,6 +370,11 @@ footer {
   border-bottom: 1px solid #dcd9d9
 }
 
+#experience ul {
+  color: #74808a;
+  font-size: 0.9em
+}
+
 #experience h2 {
   color: #374054
 }
